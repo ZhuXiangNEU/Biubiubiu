@@ -2,8 +2,8 @@ import random
 import pandas as pd
 
 # Set up the initial condition.
-number_of_user = 1000
-follow_for_each_user = 5
+number_of_user = 10000
+follow_for_each_user = 3
 
 # generate the pair of the follower_id and user_id
 i = 1

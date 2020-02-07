@@ -3,8 +3,8 @@ import pandas as pd
 import time
 
 # Set up the initial condition.
-number_of_tweet = 10000
-num_of_users = 1000
+number_of_tweet = 1000000
+num_of_users = 10000
 
 # open the txt file to read each line
 corpus = open('res/corpus.txt', encoding = "ISO-8859-1").readlines()
